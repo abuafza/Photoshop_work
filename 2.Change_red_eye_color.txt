@@ -1,0 +1,3 @@
+First Open Adobe Bridge 2021-->Now goto Additional Photos-->Right click on Red-eye_photo-effect.jpg-->Open with-->Adobe Photoshop 2021-->File-->Save as Red-eye_photo-effect_1.psd-->Click Layer-->new-->Layer by copy (for copy the layer)-->now create Background (save for future)-->Turn off the Background Eye-->Now select Zoom in-->Click on under the Spot Healing Brush Tool (J)-->select Red Eye Tool-->Now click on centre of the eye-->Then the eye color changed-->File-->Save
+
+In this way we can change the eye color. 
