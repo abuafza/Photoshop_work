@@ -1,0 +1,5 @@
+First Open Adobe Bridge 2021-->Now goto Additional Photos-->Right click on Dallas.jpg-->Open with-->Adobe Photoshop 2021-->File-->Save as Dallas_1.psd-->Click Layer-->new-->Layer by copy (for copy the layer)-->now create Layer 1(save for future)-->Turn off the Background Eye-->Goto Adjustment layer-->Black & White-->then show a white color Black & white layer (if it is black then it not to be adjustment)-->select Black & white layer (white box)-->then select the left side color black and white-->now click the Gradient Tool-->now show the gradient color-->select text tool-->write:DALLAS-->click tik under menu bar-->click edit-->free transform-->then select text-->now press tik under menu bar-->Layer-->Layer style-->outer glow-->Blend Mode: Screen, Opacity: 75, change color, Spread: 24, Size:24-->ok-->save
+
+
+
+In this way we can change text effect. 
